@@ -1,0 +1,66 @@
+{
+  "fg": {
+    "primary": {
+      "$type": "color",
+      "$value": "{purple.200}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{purple.500}"
+    },
+    "primary-contrast": {
+      "$type": "color",
+      "$value": "{purple.950}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{green.300}"
+    },
+    "secondary-contrast": {
+      "$type": "color",
+      "$value": "{green.800}"
+    }
+  },
+  "bg": {
+    "default": {
+      "$type": "color",
+      "$value": "{purple.800}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{green.900}"
+    }
+  },
+  "fill": {
+    "primary-float": {
+      "$type": "color",
+      "$value": "{purple.600}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{purple.200}"
+    },
+    "primary-tap": {
+      "$type": "color",
+      "$value": "{purple.100}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{green.300}"
+    },
+    "secondary-float": {
+      "$type": "color",
+      "$value": "{green.800}"
+    }
+  },
+  "border": {
+    "primary-hint": {
+      "$type": "color",
+      "$value": "{purple.500}"
+    },
+    "secondary-contrast": {
+      "$type": "color",
+      "$value": "{green.800}"
+    }
+  }
+}

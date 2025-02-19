@@ -1,0 +1,17 @@
+:root {
+  /* Dark theme variables */
+  --fg-primary: #B8A5FF;
+  --fg-disabled: #574895;
+  --fg-primary-contrast: #131122;
+  --fg-secondary: #ACEB60;
+  --fg-secondary-contrast: #294408;
+  --bg-default: #221C3B;
+  --bg-secondary: #162504;
+  --fill-primary-float: #392E60;
+  --fill-primary: #B8A5FF;
+  --fill-primary-tap: #C7B7FF;
+  --fill-secondary: #ACEB60;
+  --fill-secondary-float: #294408;
+  --border-primary-hint: #574895;
+  --border-secondary-contrast: #294408;
+}
